@@ -4,6 +4,11 @@
 ** Summer 2021
 ** Socket initialization taken from Brian “Beej Jorgensen” Hall
 **		(https://www.beej.us/guide/bgnet/html/index-wide.html)
+**
+**
+**
+** Client program to be run on PC or Laptop
+** Takes IP address of esp32 as argument
 */
 
 #include <stdio.h>

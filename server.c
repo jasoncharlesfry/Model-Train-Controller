@@ -2,6 +2,11 @@
 ** WiFi Enable Train controller
 ** Jason Fry
 ** Summer 2021
+**
+**
+**
+** Server program to be run on esp32-s2
+** Connect to serial port to read assigned IP address the esp32 connects to wifi
 */
 #include <string.h>
 #include <sys/param.h>
